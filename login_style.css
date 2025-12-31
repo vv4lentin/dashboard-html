@@ -33,12 +33,12 @@ footer {
     font-family: arial;
     text-align: center;
     position: relative;
-    top: 600px;
+    top: 180px;
 }
 
 #logo_image { 
-    height: 100px; 
-    width: 100px;
+    height: 75px; 
+    width: 75px;
 }
 
 #rectangle {
