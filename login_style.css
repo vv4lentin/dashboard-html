@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+input {
+    border: solid rgb(240, 240, 240);
+    font-family: arial; 
+    font-size: large;
+    position: relative;
+    top: 150px;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+header {
+    font-family: arial;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+main {
+    font-family: arial;
+    font-size: large;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+footer {
+    font-family: arial;
+    text-align: center;
+    position: relative;
+    top: 600px;
+}
+
+#logo_image { 
+    height: 100px; 
+    width: 100px;
+}
+
+#rectangle {
+    background-color: white;
+    height: 600px;
+    width: 500px;
+    position: relative;
+    left: 700px;
+    border: solid rgb(240, 240, 240);
+    bottom: 175px;
+    border-radius: 10px;
+}
+
+#Credentials {
+    font-family: arial;
+    font-size: medium;
+    text-align: left;
+    position: relative;
+    opacity: 50%;
+    top: 50px;
+    right: 110px
+}
+
+#welcome_back {
+    font-family: arial;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: 75px;
+    right: 102px
+}
+
+#Login_button {
+    background-color: rgb(58,127,249);
+    color: white;
+    font-family: arial;
+    font-size: large;
+    position: relative;
+    top: 150px;
+    border: none;
+    height: 60px;
+    width: 400px;
+    border-radius: 15px;
+}
