@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(240, 240, 240);
+    font-family: arial;
+}
+
+header {
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    top: 175px;
+}
+
+#logo_image { 
+    height: 75px; 
+    width: 75px;
+}
+
+#navigation_bar {
+    text-align: left;
+    position:fixed;
+    height: 1000px;
+    width: 200px;
+    background-color: rgb(53,28,86);
+
+}
